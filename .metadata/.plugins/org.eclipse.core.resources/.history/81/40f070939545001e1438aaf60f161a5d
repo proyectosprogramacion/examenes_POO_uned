@@ -1,0 +1,12 @@
+package examen2023;
+
+public class ejercicio_2 {
+
+	public static void main(String[] args) {
+		int indice = 1;
+		boolean[] exam = new boolean[8];
+		boolean poo = examn[indice];
+
+	}
+
+}
