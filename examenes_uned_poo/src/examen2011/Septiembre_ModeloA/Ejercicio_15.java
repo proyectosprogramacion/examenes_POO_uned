@@ -8,7 +8,7 @@ public class Ejercicio_15 {
 		int[] b= new int[10];
 		
 		a= b.size;
-		a=b.size();
+		a= b.size();
 		a= b.length;
 		a= b.length();
 		
