@@ -5,6 +5,7 @@ public class Ejercicio_1 {
 	private String nombre = "ACME";
 	private String registro = "0000";
 	
+
 	public Ejercicio_1 (String registro) {
 		this.registro= registro;
 	}
@@ -14,7 +15,7 @@ public class Ejercicio_1 {
 	}
 	public static void main(String[] args) {
 		String nombre = "maquina1";
-		Ejercicio_1 tm = new Ejercicio_1(nombre);
+		Ejercicio_11 tm = new Ejercicio_11(nombre);
 	}
 
 }

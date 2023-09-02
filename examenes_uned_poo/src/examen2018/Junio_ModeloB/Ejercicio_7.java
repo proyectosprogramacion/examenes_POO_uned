@@ -1,4 +1,4 @@
-package examen2019.Junio_ModeloA;
+package examen2018.Junio_ModeloB;
 
 public class Ejercicio_7 {
 
@@ -15,9 +15,4 @@ public class Ejercicio_7 {
 			System.out.println(expresion3);
 			System.out.println(expresion4);
 			System.out.println(expresion5);
-
-			
-		
-	}
-
 }
